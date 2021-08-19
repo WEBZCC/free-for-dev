@@ -1202,6 +1202,8 @@ Table of Contents
    * [ide.cs50.io](https://ide.cs50.io/) - A free IDE powered by AWS Cloud9 by Harvard University.
    * [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web.
    * [codesandbox.io](https://codesandbox.io/) — Online Playground for React, Vue, Angular, Preact and more.
+   * [db-fiddle.com](https://www.db-fiddle.com/) - Online SQL database playground offering MySql 5.5-8.0, postgreSQL 9.4-13, and SQLite 3.26 and 3.30. It also offers a text-to-table-definition converting tool.
+   * [db<>fiddle](https://dbfiddle.uk/) - Online SQL database playground with very broad offerings: DB2 11.1, Firebird 3.0, MariaDB 10.3-10.6, MySQL 5.5-8.0, Oracle 11gR2, 18c, PosgreSQL 9.5-13,  SQLite 3.27, SQL Server 2014-2019, and YugabyteDB 2.6.
    * [Eclipse Che](https://www.eclipse.org/che/) - Web based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community driven. A online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).
    * [fakejson.com](https://fakejson.com/) — FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go to market process for ideas and fake it till you make it.
    * [gitpod.io](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open source.
@@ -1222,6 +1224,7 @@ Table of Contents
    * [Replit](https://replit.com/) — A cloud coding environment for various program languages.
    * [SoloLearn](https://code.sololearn.com) — A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration required for running code but required when you need to save code on their platform. Also offers free courses for begginers and intermediate level coders.
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React.
+   * [SQL Fiddle](http://sqlfiddle.com/) - Online SQL database playground offering MySQL 5.6, Oracle 11g, postgreSQL 9.3 and 9.6, SQLite(WebSQL), SQLite(sql.js), and SQL Server 2017. It also offers a text-to-table-definition converting tool.
    * [Visual Studio Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft for Windows, macOS and Linux.
    * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
    * [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
